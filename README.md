@@ -1,7 +1,7 @@
 - # 💫 About Me:
 - 👋 Hi, I’m @SACHITG1358
 - 👀 I’m interested in Coding...
-- 🌱 I’m currently learning DSA
+- 🧠 I’m currently learning DSA
 - 📫 How to reach me sachitg1358@gmail.com
 - "B.Tech in Electrical Engineering | Aspiring Software Developer | Passionate about Coding and Technology | NIT Jamshedpur Student"
 
